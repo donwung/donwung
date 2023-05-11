@@ -1,6 +1,13 @@
 <h1 align="center">I'm Don</h1>
-<h2>I code web apps and tools at varying degrees of usefulness<h2>
+<h2 align="center">I code web apps and tools at varying degrees of usefulness<h2>
 
+  <h3>Currently working on:</h3> 
+  <p>Assorted works</p>
+  <h3>Currently learning: </h3>
+  <p>Godot Engine</p>
+  
+  <h4>Ask me about my video game flavor of the week</h4>
+  
 
 <!--
 **donwung/donwung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
