@@ -1,5 +1,5 @@
-<!-- <h1 align="center">I'm Don</h1>
- -->
+<h1 align="center">I'm Don</h1>
+<h2>I code web apps and tools at varying degrees of usefulness<h2>
 
 
 <!--
