@@ -61,7 +61,7 @@ Love video games and game related content
 
 - <a href="https://linkedin.com/in/dond" target="_blank">LinkedIn</a>  
 
-- or you can @ me on Discord: der#2340
+- or you can @ me on Discord: ~~der#2340~~ rearbones
 
 
 <!--
