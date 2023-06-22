@@ -58,7 +58,7 @@ Love video games and game related content
 </table>  
 
 ## Connect with me  
-- <a href="https://github.com/donwung" target="_blank"> GitHub</a>
+- <a href="https://github.com/donwung" target="_blank"> GitHub</a> (haha you're already here)
 
 - <a href="https://linkedin.com/in/dond" target="_blank">LinkedIn</a>  
 
