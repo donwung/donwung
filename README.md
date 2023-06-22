@@ -14,7 +14,7 @@ Love video games and game related content
 - Updating old apps
 - Putting time into creative hobbies
 
-## Stuff I just <i>happen</i> to know 😏:  
+## Coding stuff I know:  
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -42,6 +42,7 @@ Love video games and game related content
           <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
           <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
           <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+          <a href="https://fastapi.tiangolo.com/lo/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" height="50" /></a>  
         </div>
     </td>
     <td valign="top" width="33%">
