@@ -1,3 +1,5 @@
+hey
+<!--
 # Hey, name's John, but I go by Don  
 
 I like to code web apps and tools at varying degrees of usefulness  
@@ -63,7 +65,7 @@ Love video games and game related content
 - <a href="https://linkedin.com/in/dond" target="_blank">LinkedIn</a>  
 
 - or you can @ me on Discord: ~~der#2340~~ rearbones
-
+-->
 
 <!--
 **donwung/donwung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
